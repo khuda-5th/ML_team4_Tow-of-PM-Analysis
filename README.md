@@ -2,6 +2,8 @@
 위치 데이터를 기반으로 한 전동 킥보드 견인 위치의 환경적 원인 및 특성 탐색<br/>
 
 ### 🛴 킥킥 - 위치 데이터를 기반으로 한 전동 킥보드 견인 위치의 환경적 원인 및 특성 탐색 <br/>
+![image](https://github.com/khuda-5th/ML_team4_Tow-of-PM-Analysis/assets/70475010/50a1a7cf-c9d3-4984-b129-9730f4fc646d)
+
 
 ### 💡주제 선정
 
